@@ -1,5 +1,4 @@
-
-
+// Header components is
 const Header = () => {
   return (
     <header className="header">
