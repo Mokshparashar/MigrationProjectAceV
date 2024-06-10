@@ -12,7 +12,7 @@ const DashboardContent =()=> {
       <Card title="Employees" value="68" color="#FFC107" />
       <Card title="Courses" value="16" color="#4CAF50" />
       <Card title="Revenue" value="3,47,000" color="#2196F3" />
-      {/* you can add more cards here */}
+      {/* you can add more cards here just add on */}
     </div>
   )
 };
