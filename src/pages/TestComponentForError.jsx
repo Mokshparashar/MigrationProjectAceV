@@ -1,10 +1,9 @@
-import React from 'react'
-
-const NewCompr = () => {
+// This component is used to test when error is occurs
+const TestComponentInError = () => {
   return (
-    <div>NewCompr
+    <div>TestComponentInError
     {console.log("Hello")}</div>
   )
 }
 
-export default NewCompr
+export default TestComponentInError
